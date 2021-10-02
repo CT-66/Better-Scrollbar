@@ -1,3 +1,4 @@
+# Better-Scrollbar
 Better-Scrollbar is a Chrome extension that modifies the scrollbar to look more modern than the default Chrome scrollbar. It is highly opinionated so you may or may not like it. It is buggy, especially with the hover effects, so use at your own discretion.
 
 # Installation
