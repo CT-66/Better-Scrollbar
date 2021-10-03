@@ -3,8 +3,9 @@ Better-Scrollbar is a Chrome extension that modifies the scrollbar to look more 
 
 # Installation
 1. Clone this repo to your machine by using `git clone https://github.com/CT-66/Better-Scrollbar.git`
-2. Go to `chrome://extensions` in your browser
-3. Click on `Load unpacked` and select the folder which you cloned
+2. Toggle Developer Mode
+3. Go to `chrome://extensions` in your browser
+4. Click on `Load unpacked` and select the folder which you cloned
 
 # Roadmap
 - A Firefox extension
